@@ -1,0 +1,209 @@
+# Compile of TB.v was successful.
+# Compile of Parking_management.v failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of TB.v was successful.
+# Compile of Parking_management.v failed with 4 errors.
+# 2 compiles, 1 failed with 4 errors.
+# Compile of TB.v was successful.
+# Compile of Parking_management.v failed with 4 errors.
+# 2 compiles, 1 failed with 4 errors.
+# Compile of TB.v was successful.
+# Compile of Parking_management.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.TB
+# vsim -gui work.TB 
+# Start time: 19:50:13 on Jun 26,2024
+# Loading work.TB
+# Loading work.Parking_management
+run -all
+# Current Hour: 8, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 500, Vacated Space: 200, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Current Hour: 10, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 500, Vacated Space: 200, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Current Hour: 11, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 500, Vacated Space: 200, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Current Hour: 13, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 450, Vacated Space: 250, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Current Hour: 14, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 450, Vacated Space: 250, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Current Hour: 15, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 450, Vacated Space: 250, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Current Hour: 16, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 200, Vacated Space: 500, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# ** Note: $stop    : C:/Users/asus/Desktop/CE/DSD/Final_Extra/TB.v(57)
+#    Time: 90 ps  Iteration: 0  Instance: /TB
+# Break in Module TB at C:/Users/asus/Desktop/CE/DSD/Final_Extra/TB.v line 57
+# Compile of TB.v was successful.
+# Compile of Parking_management.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB
+# Loading work.Parking_management
+run -all
+# Current Hour: 8, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 500, Vacated Space: 200, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Current Hour: 10, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 500, Vacated Space: 200, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Current Hour: 11, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 500, Vacated Space: 200, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Current Hour: 13, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 450, Vacated Space: 250, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Current Hour: 14, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 450, Vacated Space: 250, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Current Hour: 15, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 450, Vacated Space: 250, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Current Hour: 16, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 200, Vacated Space: 500, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# ** Note: $stop    : C:/Users/asus/Desktop/CE/DSD/Final_Extra/TB.v(57)
+#    Time: 90 ps  Iteration: 0  Instance: /TB
+# Break in Module TB at C:/Users/asus/Desktop/CE/DSD/Final_Extra/TB.v line 57
+# Compile of TB.v was successful.
+# Compile of Parking_management.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB
+# Loading work.Parking_management
+run -all
+# Hello1
+# Hello6
+# Hello7
+# Current Hour: 8, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 500, Vacated Space: 200, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Current Hour: 10, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 500, Vacated Space: 200, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Hello1
+# Hello9
+# Hello10
+# Current Hour: 11, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 500, Vacated Space: 200, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Hello2
+# Hello3
+# Hello6
+# Hello8
+# Current Hour: 13, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 450, Vacated Space: 250, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Current Hour: 14, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 450, Vacated Space: 250, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Current Hour: 15, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 450, Vacated Space: 250, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# Hello2
+# Hello4
+# Hello9
+# Hello11
+# Current Hour: 16, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 200, Vacated Space: 500, Uni Is Vacated Space: 0, Is Vacated Space: 0
+# ** Note: $stop    : C:/Users/asus/Desktop/CE/DSD/Final_Extra/TB.v(57)
+#    Time: 90 ps  Iteration: 0  Instance: /TB
+# Break in Module TB at C:/Users/asus/Desktop/CE/DSD/Final_Extra/TB.v line 57
+# Compile of TB.v was successful.
+# Compile of Parking_management.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB
+# Loading work.Parking_management
+run -all
+# Hello1
+# Hello6
+# Hello7
+# Current Hour: 8, Uni Parked Car: 1, Parked Car: 0, Uni Vacated Space: 499, Vacated Space: 200, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Current Hour: 10, Uni Parked Car: 1, Parked Car: 0, Uni Vacated Space: 499, Vacated Space: 200, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Hello1
+# Hello9
+# Hello10
+# Current Hour: 11, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 500, Vacated Space: 200, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Hello2
+# Hello3
+# Hello6
+# Hello8
+# Current Hour: 13, Uni Parked Car: 0, Parked Car: 1, Uni Vacated Space: 450, Vacated Space: 249, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Current Hour: 14, Uni Parked Car: 0, Parked Car: 1, Uni Vacated Space: 450, Vacated Space: 249, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Current Hour: 15, Uni Parked Car: 0, Parked Car: 1, Uni Vacated Space: 450, Vacated Space: 249, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Hello2
+# Hello4
+# Hello9
+# Hello11
+# Current Hour: 16, Uni Parked Car: 0, Parked Car: 0, Uni Vacated Space: 200, Vacated Space: 500, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# ** Note: $stop    : C:/Users/asus/Desktop/CE/DSD/Final_Extra/TB.v(57)
+#    Time: 90 ps  Iteration: 0  Instance: /TB
+# Break in Module TB at C:/Users/asus/Desktop/CE/DSD/Final_Extra/TB.v line 57
+# Compile of TB.v was successful.
+# Compile of Parking_management.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB
+# Loading work.Parking_management
+run -all
+# Hello1
+# Hello6
+# Hello7
+# Current Hour: 8, Uni Parked Car: 1, Parked Car: 0, Uni Vacated Space: 499, Vacated Space: 200, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Hello1
+# Hello6
+# Hello7
+# Current Hour: 10, Uni Parked Car: 2, Parked Car: 0, Uni Vacated Space: 498, Vacated Space: 200, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Hello1
+# Hello9
+# Hello10
+# Current Hour: 11, Uni Parked Car: 1, Parked Car: 0, Uni Vacated Space: 499, Vacated Space: 200, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Hello2
+# Hello3
+# Hello6
+# Hello8
+# Current Hour: 13, Uni Parked Car: 1, Parked Car: 1, Uni Vacated Space: 449, Vacated Space: 249, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Hello2
+# Hello3
+# Hello6
+# Hello7
+# Current Hour: 14, Uni Parked Car: 2, Parked Car: 1, Uni Vacated Space: 398, Vacated Space: 299, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Hello2
+# Hello3
+# Hello6
+# Hello7
+# Current Hour: 15, Uni Parked Car: 3, Parked Car: 1, Uni Vacated Space: 347, Vacated Space: 349, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Hello2
+# Hello4
+# Hello9
+# Hello11
+# Current Hour: 16, Uni Parked Car: 3, Parked Car: 0, Uni Vacated Space: 197, Vacated Space: 500, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# ** Note: $stop    : C:/Users/asus/Desktop/CE/DSD/Final_Extra/TB.v(57)
+#    Time: 150 ps  Iteration: 0  Instance: /TB
+# Break in Module TB at C:/Users/asus/Desktop/CE/DSD/Final_Extra/TB.v line 57
+# Compile of TB.v was successful.
+# Compile of Parking_management.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB
+# Loading work.Parking_management
+run -all
+# Current Hour: 8, Uni Parked Car: 470, Parked Car: 0, Uni Vacated Space: 30, Vacated Space: 200, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Current Hour: 10, Uni Parked Car: 471, Parked Car: 0, Uni Vacated Space: 29, Vacated Space: 200, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Current Hour: 11, Uni Parked Car: 470, Parked Car: 0, Uni Vacated Space: 30, Vacated Space: 200, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Current Hour: 13, Uni Parked Car: 450, Parked Car: 21, Uni Vacated Space: 0, Vacated Space: 229, Uni Is Vacated Space: 0, Is Vacated Space: 1
+# Current Hour: 14, Uni Parked Car: 400, Parked Car: 72, Uni Vacated Space: 0, Vacated Space: 228, Uni Is Vacated Space: 0, Is Vacated Space: 1
+# Current Hour: 15, Uni Parked Car: 350, Parked Car: 123, Uni Vacated Space: 0, Vacated Space: 227, Uni Is Vacated Space: 0, Is Vacated Space: 1
+# Current Hour: 16, Uni Parked Car: 200, Parked Car: 272, Uni Vacated Space: 0, Vacated Space: 228, Uni Is Vacated Space: 0, Is Vacated Space: 1
+# ** Note: $stop    : C:/Users/asus/Desktop/CE/DSD/Final_Extra/TB.v(60)
+#    Time: 9530 ps  Iteration: 0  Instance: /TB
+# Break in Module TB at C:/Users/asus/Desktop/CE/DSD/Final_Extra/TB.v line 60
+# Compile of TB.v was successful.
+# Compile of Parking_management.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB
+# Loading work.Parking_management
+run -all
+# Current Hour: 8, Uni Parked Car: 470, Parked Car: 0, Uni Vacated Space: 30, Vacated Space: 200, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Current Hour: 10, Uni Parked Car: 471, Parked Car: 0, Uni Vacated Space: 29, Vacated Space: 200, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Current Hour: 11, Uni Parked Car: 470, Parked Car: 0, Uni Vacated Space: 30, Vacated Space: 200, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Current Hour: 13, Uni Parked Car: 450, Parked Car: 21, Uni Vacated Space: 0, Vacated Space: 229, Uni Is Vacated Space: 0, Is Vacated Space: 1
+# Current Hour: 14, Uni Parked Car: 400, Parked Car: 72, Uni Vacated Space: 0, Vacated Space: 228, Uni Is Vacated Space: 0, Is Vacated Space: 1
+# Current Hour: 15, Uni Parked Car: 350, Parked Car: 123, Uni Vacated Space: 0, Vacated Space: 227, Uni Is Vacated Space: 0, Is Vacated Space: 1
+# Current Hour: 16, Uni Parked Car: 200, Parked Car: 272, Uni Vacated Space: 0, Vacated Space: 228, Uni Is Vacated Space: 0, Is Vacated Space: 1
+# Current Hour: 16, Uni Parked Car: 200, Parked Car: 272, Uni Vacated Space: 0, Vacated Space: 228, Uni Is Vacated Space: 0, Is Vacated Space: 1
+# ** Note: $stop    : C:/Users/asus/Desktop/CE/DSD/Final_Extra/TB.v(64)
+#    Time: 9540 ps  Iteration: 0  Instance: /TB
+# Break in Module TB at C:/Users/asus/Desktop/CE/DSD/Final_Extra/TB.v line 64
+# Compile of TB.v was successful.
+# Compile of Parking_management.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB
+# Loading work.Parking_management
+run -all
+# Current Hour: 8, Uni Parked Car: 470, Parked Car: 0, Uni Vacated Space: 30, Vacated Space: 200, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Current Hour: 10, Uni Parked Car: 471, Parked Car: 0, Uni Vacated Space: 29, Vacated Space: 200, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Current Hour: 11, Uni Parked Car: 470, Parked Car: 0, Uni Vacated Space: 30, Vacated Space: 200, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# Current Hour: 13, Uni Parked Car: 450, Parked Car: 21, Uni Vacated Space: 0, Vacated Space: 229, Uni Is Vacated Space: 0, Is Vacated Space: 1
+# Current Hour: 14, Uni Parked Car: 400, Parked Car: 72, Uni Vacated Space: 0, Vacated Space: 228, Uni Is Vacated Space: 0, Is Vacated Space: 1
+# Current Hour: 15, Uni Parked Car: 350, Parked Car: 123, Uni Vacated Space: 0, Vacated Space: 227, Uni Is Vacated Space: 0, Is Vacated Space: 1
+# Current Hour: 16, Uni Parked Car: 200, Parked Car: 272, Uni Vacated Space: 0, Vacated Space: 228, Uni Is Vacated Space: 0, Is Vacated Space: 1
+# Current Hour: 16, Uni Parked Car: 199, Parked Car: 272, Uni Vacated Space: 1, Vacated Space: 228, Uni Is Vacated Space: 1, Is Vacated Space: 1
+# ** Note: $stop    : C:/Users/asus/Desktop/CE/DSD/Final_Extra/TB.v(64)
+#    Time: 9550 ps  Iteration: 0  Instance: /TB
+# Break in Module TB at C:/Users/asus/Desktop/CE/DSD/Final_Extra/TB.v line 64

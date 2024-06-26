@@ -1,0 +1,8 @@
+C:/Users/asus/Desktop/CE/DSD/Final_Extra/Parking_management.v {1 {vlog -work work -stats=none C:/Users/asus/Desktop/CE/DSD/Final_Extra/Parking_management.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Parking_management
+
+Top level modules:
+	Parking_management
+
+} {} {}}
